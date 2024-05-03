@@ -2,9 +2,13 @@
 Group Members: 
 
 Joey Kozohar: joeykozohar
+
 Alan Dial: aland
+
 Will Logan: willslogan
+
 Jackson Medina: jacksonm0503
+
 Marcelo Zuleta Sarmiento: zuletamarcelo7
 
 In our project we attempted to tackle a problem that exists with most students today. Students are becoming more and more overwhelmed with the amount of schoolwork given to them. They struggle to maintain a clear and concise way to organize their work. In turn students become stressed and need for organization tools to accommodate their busy schedules
